@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html>
+ 
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/estilos.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    
+    <header>
+        <h1>Cibertec - Carreras Profesionales</h1>
+            <img class="logo" src="~/imagenes/baner.jpg">
+    </header>
+    <nav>
+        <div class="menu">
+            <a class="menu-item" href="#">Home</a>
+            <a class="menu-item" href="#">Carreras Técnicas</a>
+            <a class="menu-item" href="#">Matriculas</a>
+            <a class="menu-item" href="#">Beca 18</a>
+            <a class="menu-item" href="#">Cursos Kid</a>
+            <a class="menu-item" href="#">Contactenos</a>
+        </div> 
+    </nav>
+    <div>
+        @RenderBody() <!--sector donde se coloca el diseño de la vista-->
+    </div>
+    <footer>
+        <div class="footer-rs">
+            <img class="rs" src="~/imagenes/face.jpg" />
+            <img class="rs" src="~/imagenes/instagram.jpg" />
+            <img class="rs" src="~/imagenes/pinterest.jpg" />
+            <img class="rs" src="~/imagenes/twitter.jpg" />
+        </div>
+    </footer>
+</body>
+</html>
+<!--diseña la página plantilla para todas las vistas-->

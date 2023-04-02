@@ -1,0 +1,722 @@
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\appsettings.Development.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\appsettings.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.staticwebassets.runtime.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.exe
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.deps.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.runtimeconfig.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.pdb
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.AssemblyReference.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.AssemblyInfoInputs.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.AssemblyInfo.cs
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.CoreCompileInputs.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.MvcApplicationPartsAssemblyInfo.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.RazorAssemblyInfo.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.RazorAssemblyInfo.cs
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets.build.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets.development.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\bundle\AppWeb01T_Core.styles.css
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\projectbundle\AppWeb01T_Core.bundle.scp.css
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\refint\AppWeb01T_Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.pdb
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.genruntimeconfig.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\ref\AppWeb01T_Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Humanizer.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\MessagePack.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.CopyComplete
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\appsettings.Development.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\appsettings.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.staticwebassets.runtime.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.exe
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.deps.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.runtimeconfig.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.pdb
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Humanizer.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\MessagePack.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.AssemblyReference.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.AssemblyInfoInputs.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.AssemblyInfo.cs
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.CoreCompileInputs.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.MvcApplicationPartsAssemblyInfo.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.RazorAssemblyInfo.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.RazorAssemblyInfo.cs
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets.build.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets.development.json
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\bundle\AppWeb01T_Core.styles.css
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\projectbundle\AppWeb01T_Core.bundle.scp.css
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.CopyComplete
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\refint\AppWeb01T_Core.dll
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.pdb
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.genruntimeconfig.cache
+D:\Computación e Informática V\1915 - DESARROLLO DE SERVICIOS WEB I [COMPLETO]\semana 1\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\ref\AppWeb01T_Core.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\appsettings.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.staticwebassets.runtime.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.exe
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.deps.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.runtimeconfig.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\AppWeb01T_Core.pdb
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.AssemblyReference.cache
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.AssemblyInfoInputs.cache
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.AssemblyInfo.cs
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.CoreCompileInputs.cache
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.RazorAssemblyInfo.cache
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.RazorAssemblyInfo.cs
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets\msbuild.AppWeb01T_Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets\msbuild.build.AppWeb01T_Core.props
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppWeb01T_Core.props
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppWeb01T_Core.props
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\bundle\AppWeb01T_Core.styles.css
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\scopedcss\projectbundle\AppWeb01T_Core.bundle.scp.css
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.csproj.CopyComplete
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\refint\AppWeb01T_Core.dll
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.pdb
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\AppWeb01T_Core.genruntimeconfig.cache
+C:\Users\Renzzo\Desktop\AppWeb01T_Core\AppWeb01T_Core\obj\Debug\net6.0\ref\AppWeb01T_Core.dll
